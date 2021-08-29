@@ -36,7 +36,6 @@ namespace Test {
             Console.WriteLine( "'This field is required' error message appears under date of birth box. " );
             Console.WriteLine( "Test: PASS " );
             driver.Close();
-  
         }
     }
 }
